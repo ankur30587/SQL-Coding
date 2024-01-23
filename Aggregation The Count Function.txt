@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM CITY
+WHERE Population > 100000; -- Replace 100000 with your desired value
